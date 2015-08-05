@@ -13,7 +13,10 @@ but it will mean using the OS and IDE your interviewer uses.
 Do let us know in advance if you have particular preferences.
 
 The purpose of this repo is to help you check that you've got Java and Maven installed correctly.
-If you've got them installed right, when you clone this repo you should be able to execute
+
+## Checking you've got Java 8 and Maven installed correctly
+
+When you clone this repo, in the directory containing the pom.xml you should be able to execute
 `mvn clean test exec:java -Dexec.mainClass="tester.TestCsvLoad"`
 and get output like the following:
 
