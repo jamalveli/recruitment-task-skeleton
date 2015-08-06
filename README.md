@@ -6,9 +6,9 @@ If you're reading this then you're probably applying for a developer role at Oca
 
 Welcome! :)
 
-At Ocado Technology, craftmanship and collaboration are two of our core values.  Part of the interview process will invovle you pairing up with one of our experienced developers to solve an interesting problem.  This is great for us because we get to see how you go about solving a problem collaboratively, and great for you because you get a taste of what it might be like to be part of Ocado Technology.
+At Ocado Technology, craftsmanship and collaboration are two of our core values.  Part of the interview process will involve you pairing up with one of our experienced developers to solve an interesting problem.  This is great for us because we get to see how you go about solving a problem collaboratively, and great for you because you get a taste of what it might be like to be part of Ocado Technology.
 
-We encourage you to bring your own laptop.  You're probably going to have a better experience using tools you're familar with; no sense in fighting with an unfamiliar keyboard or IDE!
+We encourage you to bring your own laptop.  You're probably going to have a better experience using tools you're familiar with; no sense in fighting with an unfamiliar keyboard or IDE!
 
 To solve the problem, you will require [Java 8](https://en.wikipedia.org/wiki/Java_8) and [Maven](https://en.wikipedia.org/wiki/Apache_Maven). This GitHub project is here to help you ensure that these are installed correctly on your machine.
 
