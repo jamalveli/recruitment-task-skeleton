@@ -1,18 +1,18 @@
-# Recruitment task skeleton code
+# Recruitment Task Skeleton Code
 
-Some of our technical interviewers are replacing whiteboard programming with a pair programming exercise.
+Hello, 
 
-It requires [Java 8](https://en.wikipedia.org/wiki/Java_8) and [Maven](https://en.wikipedia.org/wiki/Apache_Maven).
+If you're reading this then you're probably applying for a developer role at Ocado Technology.  
 
-If you're an interview candidate, we encourage you to bring in your own laptop
-set up the way you like and with the tools you like
-so you don't have to use an unfamiliar operating system, IDE or set of shortcut keys.
+Welcome! :)
 
-If you can't bring a laptop that's fine, your interviewer can provide one -
-but it will mean using the OS and IDE your interviewer uses.
-Do let us know in advance if you have particular preferences.
+At Ocado Technology, craftsmanship and collaboration are two of our core values.  Part of the interview process will involve you pairing up with one of our experienced developers to solve an interesting problem.  This is great for us because we get to see how you go about solving a problem collaboratively, and great for you because you get a taste of what it might be like to be part of Ocado Technology.
 
-The purpose of this repo is to help you check that you've got Java and Maven installed correctly.
+We encourage you to bring your own laptop.  You're probably going to have a better experience using tools you're familiar with; no sense in fighting with an unfamiliar keyboard or IDE!
+
+To solve the problem, you will require [Java 8](https://en.wikipedia.org/wiki/Java_8) and [Maven](https://en.wikipedia.org/wiki/Apache_Maven). This GitHub project is here to help you ensure that these are installed correctly on your machine.
+
+If you can't bring your own laptop, not to worry. We will provide one. You're welcome to let us know your preferences, but be warned: there is no guarantee that we'll be able to meet them!
 
 [![Travis CI build status image](https://api.travis-ci.org/ocadotechnology/recruitment-task-skeleton.svg)](https://travis-ci.org/ocadotechnology/recruitment-task-skeleton)
 
